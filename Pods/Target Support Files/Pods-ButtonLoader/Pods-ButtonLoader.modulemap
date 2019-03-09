@@ -1,0 +1,6 @@
+framework module Pods_ButtonLoader {
+  umbrella header "Pods-ButtonLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}
